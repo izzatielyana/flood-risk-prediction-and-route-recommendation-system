@@ -1,7 +1,7 @@
 # User Stories
 
 ## User Story 1
-- As a resident, I want to view flood risk levels on a map, so that I can identify areas that may be affected by the floods. (FR2)
+As a resident, I want to view flood risk levels on a map, so that I can identify areas that may be affected by the floods. (FR2)
 
 ### Acceptance Criteria
 - The map displays flood risk levels using different colours.

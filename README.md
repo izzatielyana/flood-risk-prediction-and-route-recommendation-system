@@ -12,7 +12,10 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 
 ## Project structure
 
+```
+.
 |-- README.md
+|-- LICENSE
 |-- .gitignore
 |-- docs/
 |   |-- problem-statement.md
@@ -20,7 +23,8 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 |   |-- user-stories.md
 |   |-- sprint-log.md
 |-- src/
-    |-- README.md      
+    |-- README.md    
+```     
 
 ## Roadmap
 - [x] Problem statement written

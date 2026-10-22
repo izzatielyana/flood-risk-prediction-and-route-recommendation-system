@@ -10,8 +10,27 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 - [Requirements](docs/requirements.md)
 - [User Stories](docs/user-stories.md)
 
+## Project structure
+
+|-- README.md
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      
+
+## Roadmap
+- [x] Problem statement written
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
+- [x] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
+
 ## Status
-In Progress
+ In Progress (CSC649, Week 4)
 
 ## Author
 Nurizzati Elyana Binti Harizan

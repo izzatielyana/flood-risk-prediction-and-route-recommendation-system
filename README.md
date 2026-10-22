@@ -1,8 +1,8 @@
 # flood-risk-prediction-and-route-recommendation-system
-To predict flood risk in a specific area in Malaysia, provide an alternative route to avoid the affected route and a route to evacuate safely.
+People including residents, live in areas that are prone to flooding, and road users are having trouble identifying flood-risk areas when flooding happens.
 
 ## Problem statement 
-Residents living in flood-prone areas, road users who affected by floods, and people who need to identify the alternative route and evacuation locations during flood events. People may lack timely flood-risk information and suitable alternative route recommendations when flooding threatens their planned journeys. These problems may cause people to be unprepared for floods and face difficulties in reaching safe locations. Therefore, a flood risk prediction and route recommendation system could help people who is affected to identify flood risks and find alternative route to safer locations.
+Residents who lived in flood-prone areas and road users affected by the flood may face difficulties in identifying flood risk areas when flood events occur. Residents may need early preparation so that they have enough times to bring an important thing along with them and plan the appropriate actions if the flood conditions become worse. Meanwhile, road users may want to avoid the affected flood roads because they can reduce the risk of getting trapped and save their time on the roads so that they can arrive at their destination quickly. News from Bernama (2021) reported that there was a major flood that marked the worst flood event ever to occur in Malaysia, located in Klang Valley. Therefore, a system for predicting flood risk could help assess flood risk by using available and historical data, including rainfall and river water levels in the selected study area, and the flood-risk area would be presented using an interactive map labelled with three different colors: green for 'Safe,' yellow for ‘Low Risk,' orange for ‘High Risk,' and red for 'Danger.' 
 
 ## Project Documents
 

@@ -9,3 +9,9 @@ Residents living in flood-prone areas, road users who affected by floods, and pe
 - [Problem Statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User Stories](docs/user-stories.md)
+
+## Status
+Completed
+
+## Author
+Nurizzati Elyana Binti Harizan

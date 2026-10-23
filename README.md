@@ -13,9 +13,7 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 ## Project structure
 
 ```
-.
 |-- README.md
-|-- LICENSE
 |-- .gitignore
 |-- docs/
 |   |-- problem-statement.md

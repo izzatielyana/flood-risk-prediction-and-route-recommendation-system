@@ -9,6 +9,7 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 - [Problem Statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User Stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
 
 ## Project structure
 

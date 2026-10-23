@@ -32,7 +32,7 @@ Residents who lived in flood-prone areas and road users affected by the flood ma
 - [ ] First prototype (later in the semester)
 
 ## Status
- In Progress (CSC649, Week 4)
+ Completed (CSC649, Week 4)
 
 ## Author
 Nurizzati Elyana Binti Harizan
